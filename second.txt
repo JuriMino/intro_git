@@ -1,1 +1,8 @@
 新規作成したファイル
+-git remote add origin
+-git push -u origin main
+-git rm [ファイル名]
+-git rm -r [ディレクトリ名]
+-git rm --cached
+-git reset HEAD [ファイル名]
+-git checkout [ファイル名]
